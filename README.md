@@ -1,9 +1,2 @@
 # Registration system made in python!
-Student registration system made in python to study fundamentals of computing and programming logic.  fdsfsdf
-dsaasdasd
-fdgfhyjukiu
-fhyjuykuiku
-sdfghjk
-fghjklç~]
-456
-oiuytrewertyui
+Student registration system made in python to study fundamentals of computing and programming logic.
