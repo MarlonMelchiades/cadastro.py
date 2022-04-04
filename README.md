@@ -7,3 +7,4 @@ Student registration system made in python to study fundamentals of computing an
 29
 30
 11
+12
